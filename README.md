@@ -23,7 +23,6 @@ Before you start using the Docker configurations and resources in this repositor
 
 ## Directory Structure Best Practice
 
-Best Practice to implement your repository with the following directory structure:
 
 ```
 dockerfiles/ # Contains sample Dockerfiles for various types of applications
