@@ -8,7 +8,6 @@ This repository provides a collection of Docker configurations and resources tai
 - [Prerequisites](#prerequisites)
 - [Directory Structure](#directory-structure)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -33,16 +32,6 @@ The repository has the following directory structure:
 ## Usage
 
 Explore the provided Docker configurations and resources to integrate Docker into your DevOps workflow. Refer to the specific documentation within each directory for detailed instructions on how to use the Docker configurations for your applications.
-
-## Contributing
-
-If you would like to contribute to this project, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature` or `git checkout -b bugfix/your-bugfix`.
-3. Make your changes and commit them with a clear message.
-4. Push your changes to your fork.
-5. Submit a pull request to the `main` branch of the original repository.
 
 ## License
 
