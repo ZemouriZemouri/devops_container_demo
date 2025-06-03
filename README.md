@@ -21,13 +21,19 @@ Before you start using the Docker configurations and resources in this repositor
 - Docker: [Install Docker](https://docs.docker.com/get-docker/)
 - Docker Compose: [Install Docker Compose](https://docs.docker.com/compose/install/)
 
-## Directory Structure
+## Directory Structure Best Practice
 
-The repository has the following directory structure:
+Best Practice to implement your repository with the following directory structure:
 
-- `dockerfiles/`: Contains sample Dockerfiles for various types of applications.
-- `configurations/`: Includes Docker Compose files and configuration files for different scenarios.
-- `resources/`: Additional resources such as scripts, tools, or templates to support Docker in DevOps.
+```
+dockerfiles/ # Contains sample Dockerfiles for various types of applications
+```
+```
+configurations/ # Includes Docker Compose files and configuration files for different scenarios
+```
+```
+resources/ # Additional resources such as scripts, tools, or templates to support Docker in DevOps
+```
 
 ## Usage
 
