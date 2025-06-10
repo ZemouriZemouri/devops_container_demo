@@ -31,7 +31,7 @@ dockerfiles/ # Contains sample Dockerfiles for various types of applications
 configurations/ # Includes Docker Compose files and configuration files for different scenarios
 ```
 ```
-resources/ # Additional resources such as scripts, tools, or templates to support Docker in DevOps
+resources/ # Additional resources such as scripts, tools or templates to support Docker in DevOps
 ```
 
 ## Usage
